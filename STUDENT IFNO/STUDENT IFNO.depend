@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1637499577 source:e:\cpp\student ifno\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1637500988 e:\cpp\student ifno\include\student.h
+	<iostream>
+
+1637500848 source:e:\cpp\student ifno\main.cpp
+	<iostream>
+	"Student.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639568127 source:e:\cpp\invoice for shopping\main.cpp
+	<iostream>
+	<stdio.h>
+
